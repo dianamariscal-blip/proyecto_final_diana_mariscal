@@ -115,4 +115,4 @@ Las pruebas comprueban perfilado, segmentación, correlaciones, modelo y selecci
 
 ## Autores y entrega
 
-Completar nombre del estudiante y URLs de GitHub/YouTube en el informe, Anexos B y C. Ver `GUIA_PUBLICACION.md` para un procedimiento paso a paso.
+Diana Mariscal y URLs de GitHub/YouTube en el informe, Anexos B y C. Ver `GUIA_PUBLICACION.md` para un procedimiento paso a paso.
