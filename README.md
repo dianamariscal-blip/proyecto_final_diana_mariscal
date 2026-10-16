@@ -92,7 +92,6 @@ Proyecto_Final_Analisis_Vinos_IA/
 ├── requirements.txt
 ├── .gitignore
 ├── ARCHITECTURE.md
-└── GUIA_PUBLICACION.md
 ```
 
 ## Pruebas
